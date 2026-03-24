@@ -13,19 +13,13 @@
 
 State_test::State_test()
 {
-    SpeedControl::getInstance().setPIDEnabled(false);
+    SpeedControl::getInstance().setPIDEnabled(true);
 }
 
 void State_test::init()
 {
-    // SpeedControl::getInstance().setPIDEnabled(true);
-    // SpeedControl::getInstance().setLeftDegsTarget(0);
-    // SpeedControl::getInstance().setRightDegsTarget(0);
-    TimerTask::AddTask(timerTaskTest1, 1000);
-    TimerTask::AddTask(timerTaskTest2, 1000);
-    TimerTask::AddTask(timerTaskTest3, 1000);
-
-
+    SpeedControl::getInstance().setLeftDegsTarget(1000);
+    SpeedControl::getInstance().setRightDegsTarget(1000);
 }
 
 void State_test::loop()
@@ -40,15 +34,16 @@ void State_test::exit()
 
 void State_test::timerTaskTest1()
 {
-    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);
 }
 
 void State_test::timerTaskTest2()
 {
-    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET);
+    // SpeedControl::getInstance().setLeftDegsTarget(1000);
+    // SpeedControl::getInstance().setRightDegsTarget(1000);
 }
 
 void State_test::timerTaskTest3()
 {
-    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);
+    // SpeedControl::getInstance().setLeftDegsTarget(500);
+    // SpeedControl::getInstance().setRightDegsTarget(500);
 }
