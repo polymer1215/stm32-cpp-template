@@ -4,6 +4,7 @@
 
 #include "main_entry.h"
 #include "../timer/timer.hpp"
+#include "../timer/TimerTask.hpp"
 #include "../state/StateMachine.hpp"
 #include "../state/State_test.hpp"
 
@@ -11,7 +12,8 @@ extern "C" {
 #include "../../Core/Inc/main.h"
 #include "tim.h"
 #include "usart.h"
-#include "../SpeedControl/SpeedControl.hpp"
+#include "gpio.h"
+#include "../control/SpeedControl.hpp"
 #include <stdio.h>
 }
 
@@ -20,7 +22,6 @@ void main_entry(void)
     SpeedControl::getInstance();
     StateMachine::getInstance();
     StateMachine::getInstance().changeState(State_test::getInstance());
-
     HAL_TIM_Base_Start_IT(&htim4);
 
     uint32_t lastTimeMillis = 0;
@@ -30,7 +31,6 @@ void main_entry(void)
         {
             // printf("test\r\n");
             // printf("left pwm:%d\r\n", leftMotorPwm);
-            HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
             lastTimeMillis = BenchTimer::timeMillis;
         }
 
@@ -44,6 +44,9 @@ extern "C" void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
         BenchTimer::timeMillis += 10;
         SpeedControl::getInstance().updateSpeedControl();
         StateMachine::getInstance().stateLoop();
+
+        // Handle the timed callback
+        TimerTask::Update();
     }
 }
 

@@ -11,9 +11,9 @@
 class SpeedControl
 {
 private:
-    const float KP = 0.0f;
-    const float KI = 0.0f;
-    const float KD = 0.0f;
+    const float KP = 5.0f;
+    const float KI = 1.55f;
+    const float KD = 0.2f;
     const int32_t PWM_MIN = 0;
     const int32_t PWM_MAX = 3599;
 

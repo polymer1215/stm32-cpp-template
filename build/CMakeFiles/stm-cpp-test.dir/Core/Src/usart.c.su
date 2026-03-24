@@ -1,0 +1,5 @@
+/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c:33:6:MX_USART1_UART_Init	8	static
+/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c:62:6:MX_USART2_UART_Init	8	static
+/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c:91:6:MX_USART3_UART_Init	8	static
+/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c:119:6:HAL_UART_MspInit	64	static
+/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c:208:6:HAL_UART_MspDeInit	16	static

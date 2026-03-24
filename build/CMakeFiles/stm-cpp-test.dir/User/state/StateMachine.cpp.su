@@ -1,0 +1,8 @@
+/Users/polymer/Dev/stm-cpp-test/User/state/State.hpp:7:13:State::~State()	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/State.hpp:7:13:virtual State::~State()	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/State_test.hpp:9:7:State_test::~State_test()	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/State_test.hpp:9:7:virtual State_test::~State_test()	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/State_test.hpp:12:24:static State_test& State_test::getInstance()	8	static
+/Users/polymer/Dev/stm-cpp-test/User/state/StateMachine.cpp:10:1:StateMachine::StateMachine()	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/StateMachine.cpp:15:6:void StateMachine::changeState(State&)	16	static
+/Users/polymer/Dev/stm-cpp-test/User/state/StateMachine.cpp:30:6:void StateMachine::stateLoop()	16	static

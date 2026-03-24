@@ -11,7 +11,7 @@ int32_t PositionalPID::compute(int32_t target, int32_t measure)
 
     integral += err;
     if (integral > integralMax) integral = integralMax;
-    else if (integral < -integralMax) integral = integralMax;
+    else if (integral < -integralMax) integral = -integralMax;
 
     int32_t output = (kp * err + ki * integral + kd * (err - errLast)) >> PID_SHIFT;
 

@@ -1,0 +1,224 @@
+[
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/main/main_entry.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/main/main_entry.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/main/main_entry.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/main/main_entry.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/pid/IncrementalPID.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/pid/IncrementalPID.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/pid/PIDController.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/pid/PIDController.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/pid/PIDController.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/pid/PIDController.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/pid/PositionalPID.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/pid/PositionalPID.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/pid/PositionalPID.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/pid/PositionalPID.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Lib/mpu6050/mpu6050.c.obj -c /Users/polymer/Dev/stm-cpp-test/Lib/mpu6050/mpu6050.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Lib/mpu6050/mpu6050.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Lib/mpu6050/mpu6050.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Lib/motor/motor.c.obj -c /Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Lib/motor/motor.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/control/SpeedControl.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/control/SpeedControl.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/control/SpeedControl.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/control/SpeedControl.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/timer/timer.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/timer/timer.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/timer/timer.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/timer/timer.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/timer/TimerTask.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/timer/TimerTask.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/state/State_test.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/state/State_test.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/state/State_test.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/state/State_test.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -O0 -g3 -o CMakeFiles/stm-cpp-test.dir/User/state/StateMachine.cpp.obj -c /Users/polymer/Dev/stm-cpp-test/User/state/StateMachine.cpp",
+  "file": "/Users/polymer/Dev/stm-cpp-test/User/state/StateMachine.cpp",
+  "output": "CMakeFiles/stm-cpp-test.dir/User/state/StateMachine.cpp.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/main.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/main.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/main.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/main.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/gpio.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/gpio.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/gpio.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/gpio.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/i2c.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/i2c.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/i2c.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/i2c.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/tim.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/tim.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/tim.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/tim.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/usart.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/usart.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/usart.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/stm32f1xx_it.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/stm32f1xx_it.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/stm32f1xx_it.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/stm32f1xx_it.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/stm32f1xx_hal_msp.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/stm32f1xx_hal_msp.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/stm32f1xx_hal_msp.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/sysmem.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/sysmem.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/sysmem.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/sysmem.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/stm-cpp-test.dir/Core/Src/syscalls.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/syscalls.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/syscalls.c",
+  "output": "CMakeFiles/stm-cpp-test.dir/Core/Src/syscalls.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles/stm-cpp-test.dir/startup_stm32f103xb.s.obj -c /Users/polymer/Dev/stm-cpp-test/startup_stm32f103xb.s",
+  "file": "/Users/polymer/Dev/stm-cpp-test/startup_stm32f103xb.s",
+  "output": "CMakeFiles/stm-cpp-test.dir/startup_stm32f103xb.s.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f1xx.c.obj -c /Users/polymer/Dev/stm-cpp-test/Core/Src/system_stm32f1xx.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Core/Src/system_stm32f1xx.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f1xx.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "/Users/polymer/Dev/stm-cpp-test/build/cmake/stm32cubemx",
+  "command": "/opt/ST/STM32CubeCLT_1.21.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Core/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/polymer/Dev/stm-cpp-test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj -c /Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c",
+  "file": "/Users/polymer/Dev/stm-cpp-test/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
+}
+]

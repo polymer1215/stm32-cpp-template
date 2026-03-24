@@ -19,6 +19,12 @@ public:
     void init() override;
     void loop() override;
     void exit() override;
+
+private:
+    static void timerTaskTest1();
+    static void timerTaskTest2();
+    static void timerTaskTest3();
+
 };
 
 #endif

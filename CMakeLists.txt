@@ -43,9 +43,11 @@ add_executable(${CMAKE_PROJECT_NAME}
         Lib/mpu6050/mpu6050.c
         User/state/State.hpp
         Lib/motor/motor.c
-        User/SpeedControl/SpeedControl.cpp
-        User/SpeedControl/SpeedControl.hpp
+        User/control/SpeedControl.cpp
+        User/control/SpeedControl.hpp
         User/timer/timer.cpp
+        User/timer/TimerTask.cpp
+        User/timer/TimerTask.hpp
         User/state/State_test.cpp
         User/state/State_test.hpp
         User/state/StateMachine.cpp
