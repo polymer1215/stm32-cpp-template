@@ -1,5 +1,0 @@
-/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c:21:6:allMotorInit	8	static
-/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c:29:6:setRightMotorPwm	24	static
-/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c:44:6:setLeftMotorPwm	24	static
-/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c:59:6:updateRightMotorSpeed	16	static
-/Users/polymer/Dev/stm-cpp-test/Lib/motor/motor.c:68:6:updateLeftMotorSpeed	16	static

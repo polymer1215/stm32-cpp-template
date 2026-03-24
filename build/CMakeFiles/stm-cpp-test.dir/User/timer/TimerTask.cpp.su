@@ -1,5 +1,0 @@
-/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp:11:6:static void TimerTask::RunForDuration(TimerCallback, int32_t)	16	static
-/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp:16:6:static bool TimerTask::AddTask(TimerCallback, int32_t)	16	static
-/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp:30:6:static void TimerTask::ClearTasks()	4	static
-/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp:38:6:static void TimerTask::Update()	8	static
-/Users/polymer/Dev/stm-cpp-test/User/timer/TimerTask.cpp:68:6:static bool TimerTask::IsFinished()	4	static

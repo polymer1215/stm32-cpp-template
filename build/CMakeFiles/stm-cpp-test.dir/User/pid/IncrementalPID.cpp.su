@@ -1,7 +1,0 @@
-/Users/polymer/Dev/stm-cpp-test/User/pid/PIDController.hpp:28:13:int32_t PIDController::clamp(int32_t)	16	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.cpp:7:9:virtual int32_t IncrementalPID::compute(int32_t, int32_t)	32	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.cpp:22:6:virtual void IncrementalPID::reset()	16	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/PIDController.hpp:17:13:PIDController::~PIDController()	16	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/PIDController.hpp:17:13:virtual PIDController::~PIDController()	16	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.hpp:9:7:IncrementalPID::~IncrementalPID()	16	static
-/Users/polymer/Dev/stm-cpp-test/User/pid/IncrementalPID.hpp:9:7:virtual IncrementalPID::~IncrementalPID()	16	static
