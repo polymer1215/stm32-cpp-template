@@ -51,7 +51,12 @@ add_executable(${CMAKE_PROJECT_NAME}
         User/state/State_test.cpp
         User/state/State_test.hpp
         User/state/StateMachine.cpp
-        User/state/StateMachine.hpp)
+        User/state/StateMachine.hpp
+        User/control/PostureControl.cpp
+        Lib/mpu6050/inv_mpu.c
+        Lib/mpu6050/inv_mpu_dmp_motion_driver.c
+        User/state/State_balance.cpp
+        User/state/State_balance.hpp)
 
 # Add STM32CubeMX generated sources
 add_subdirectory(cmake/stm32cubemx)

@@ -4,46 +4,39 @@
 
 #include "State_test.hpp"
 
-#include "../control/SpeedControl.hpp"
+// #include "../control/SpeedControl.hpp"
 #include "../../Lib/motor/motor.h"
 #include "../timer/TimerTask.hpp"
 #include "gpio.h"
 
 #include <stdio.h>
 
+extern "C" {
+#include "../../Lib/mpu6050/mpu6050.h"
+}
+
 State_test::State_test()
 {
-    SpeedControl::getInstance().setPIDEnabled(true);
+    // SpeedControl::getInstance().setBalanceEnabled(true);
 }
 
 void State_test::init()
 {
-    SpeedControl::getInstance().setLeftDegsTarget(1000);
-    SpeedControl::getInstance().setRightDegsTarget(1000);
+    TimerTask::AddTask(balanceTestTask, 10);
 }
 
 void State_test::loop()
 {
-    printf("test\r\n");
+    // Print debug info
+    printf("Pitch: %.2f, GyroY: %d\r\n", Pitch, gyro[1]);
 }
 
 void State_test::exit()
 {
-
+    // SpeedControl::getInstance().setBalanceEnabled(false);
 }
 
-void State_test::timerTaskTest1()
+void State_test::balanceTestTask()
 {
-}
-
-void State_test::timerTaskTest2()
-{
-    // SpeedControl::getInstance().setLeftDegsTarget(1000);
-    // SpeedControl::getInstance().setRightDegsTarget(1000);
-}
-
-void State_test::timerTaskTest3()
-{
-    // SpeedControl::getInstance().setLeftDegsTarget(500);
-    // SpeedControl::getInstance().setRightDegsTarget(500);
+    // SpeedControl::getInstance().updateBalanceControl();
 }
